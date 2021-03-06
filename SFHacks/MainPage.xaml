@@ -9,8 +9,9 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-        <CalendarDatePicker Margin="1568,11,0,0" VerticalAlignment="Top" Height="398" Width="655"/>
-        <CalendarView x:Name="calendar" Margin="0,11,0,0" VerticalAlignment="Top" Height="997" Width="1490" HorizontalAlignment="Center"/>
+
+        <CalendarView x:Name="calendar" Margin="10,10,0,0" VerticalAlignment="Top" Height="997" Width="1490"/>
+        
 
     </Grid>
 </Page>
